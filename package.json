@@ -1,0 +1,27 @@
+{
+  "name": "contact-list",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "faker": "^4.1.0",
+    "react": "^15.5.4",
+    "react-addons-css-transition-group": "^15.5.2",
+    "react-addons-transition-group": "^15.5.2",
+    "react-bootstrap-table": "^3.3.3",
+    "react-dom": "^15.5.4",
+    "react-fa": "^4.2.0",
+    "react-redux": "^5.0.4",
+    "reactstrap": "^4.5.0",
+    "redux": "^3.6.0"
+  },
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

@@ -1,0 +1,6 @@
+export const ADD_CONTACT = "ADD_CONTACT";
+export const REMOVE_CONTACT = "REMOVE_CONTACT";
+export const EDIT_CONTACT = "EDIT_CONTACT";
+export const CANCEL_CONTACT = "CANCEL_CONTACT";
+export const UPDATE_CONTACT = "UPDATE_CONTACT";
+export const SORT_CONTACT = "SORT_CONTACT";
