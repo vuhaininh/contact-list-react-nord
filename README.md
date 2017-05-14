@@ -1,3 +1,3 @@
 ## Installation
 
-Provide code examples and explanations of how to get the project.
+- Install NPM: http://blog.teamtreehouse.com/install-node-js-npm-windows
